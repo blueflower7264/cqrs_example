@@ -1,1 +1,2 @@
-# cqrs_example
+# cqrs
+Demo project on applying CQRS pattern
